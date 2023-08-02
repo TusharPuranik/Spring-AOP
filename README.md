@@ -23,9 +23,6 @@ gradle build
 4. Run the application:
 gradle bootRun
 
-
-5. Open your web browser and navigate to `http://localhost:8080` to see the demonstration in action.
-
 ## Requirements
 
 To run this project, ensure you have the following installed:
